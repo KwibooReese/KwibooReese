@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Reese's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwibooReese&show_icons=true&theme=blueberry)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwibooReese&theme=blueberry)](https://github.com/KwibooReese/)
+
 <!--
 **KwibooReese/KwibooReese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
